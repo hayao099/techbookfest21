@@ -1,0 +1,7 @@
+.DS_Store
+
+# Vivliostyle
+
+.vivliostyle
+/*.pdf
+node_modules
