@@ -28,6 +28,7 @@ const def = {
     { rel: "contents" },
 
     // 第一部
+    "./chap-hayao/01.md",
     //"part-1-start.md",			//
     //"chap-gr-thisisstart.md", 
     ////////
