@@ -3,7 +3,7 @@ class: title
 ---
 
 <!-- なぜか # で書くとレイアウトに失敗する -->
-<h1>#TODO: タイトルを決める</h1>
+<h1>技術加速研究所 LLM調査報告書 Vol1</h1>
 
 <div class="footer">
 <ul>
