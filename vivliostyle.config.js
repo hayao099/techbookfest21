@@ -6,10 +6,10 @@ const def = {
   //デフォルト２分でタイムアウトしちゃうので、ローカルコンパイル対応のため追加
   timeout: 300000,   // 5 分
 
-  title: "LLM100kno", // populated into `publication.json`, default to `title` of the first entry or `name` in `package.json`.
-  author: "oyakata <oyakata2438@gmail.com>", // default to `author` in `package.json` or undefined.
+  title: "技術加速研究所 LLM調査報告書 Vol1", // populated into `publication.json`, default to `title` of the first entry or `name` in `package.json`.
+  author: "GreenRyder <technology-acceleration-lab@greenryder.net>", // default to `author` in `package.json` or undefined.
   language: "ja", // default to undefined.
-  size: "JIS-B5", // JIS-B5: 教科書サイズ、A5: 最近流行りの小さいサイズの技術書
+  size: "JIS-A5", // JIS-B5: 教科書サイズ、A5: 最近流行りの小さいサイズの技術書
   theme: [
     "./fonts",
     "./theme-nice-techbook2",
@@ -19,7 +19,6 @@ const def = {
     // { rel: "cover" },
 
     // 扉
-    // "00-title.md",
     "title.html",
     // 前書き
     "01-preface.md",
@@ -27,12 +26,8 @@ const def = {
     // 目次
     { rel: "contents" },
 
-    // 第一部
-    //"part-1-start.md",			//
-    //"chap-gr-thisisstart.md", 
-    ////////
-    //"part-x-xxxxx.md",			      //LLMのいろいろ((新しい章は追加していこうとおもいます))
-    "yoshio/01.md",
+    "./ryder472/aws-llm-security.md",
+    "./yoshio/01.md",
 
 
 
