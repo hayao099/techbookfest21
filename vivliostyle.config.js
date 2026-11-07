@@ -32,7 +32,7 @@ const def = {
     //"chap-gr-thisisstart.md", 
     ////////
     //"part-x-xxxxx.md",			      //LLMのいろいろ((新しい章は追加していこうとおもいます))
-
+    "yoshio/01.md",
 
 
 
