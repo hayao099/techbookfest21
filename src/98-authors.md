@@ -22,7 +22,18 @@ JAWS-UG 茨城運営 / JAWS-UG 配信部
 
 ## よしお
 
-## Kushizam
+<div class="author-profile">
+    <img src="images/kushizam/icon.jpg">
+    <div>
+        <div>
+            <b>Kushizam </b>
+            X/GitHub: <a>@kushizam</a>
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
+ソフトウェアエンジニア。Python / TypeScript / PHPをよく使う。
+</p>
 
 # 企画・編集
 
