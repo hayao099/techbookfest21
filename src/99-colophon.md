@@ -7,10 +7,10 @@ class: colophon
 </div>
 
 <div>
-    <div class="colophon-title">#TODO: タイトルを決めよう</div>
+    <div class="colophon-title">技術加速研究所 LLM調査報告書 Vol1</div>
     <table>
         <tr>
-            <td colspan="3">2026年11月21日 第21回 技術書典　初版発行 </td>
+            <td colspan="3">2026年11月21日 第21回 技術書典　初版発行</td>
         </tr>
         <tr>
             <td>　</td>
@@ -30,7 +30,7 @@ class: colophon
         <tr>
             <td>　</td>
             <td>印刷所</td>
-            <td>K-9</td>
+            <td>オレンジ工房.com</td>
         </tr>
     </table>
     <div>&copy; 2026 技術加速研究所</div>
