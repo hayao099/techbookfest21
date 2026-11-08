@@ -23,6 +23,19 @@ JAWS-UG 茨城運営 / JAWS-UG 配信部
 ## よしお
 
 <div class="author-profile">
+    <img src="images/yoshio/icon.png">
+    <div>
+        <div>
+            <b>よしお </b>
+            X/instagram: <a>@yoshi0_dj</a>
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
+非エンジニアの文系会社員。東京でアニソンDJをしている。
+</p>
+
+<div class="author-profile">
     <img src="images/kushizam/icon.jpg">
     <div>
         <div>
