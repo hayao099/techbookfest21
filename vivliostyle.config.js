@@ -27,8 +27,10 @@ const def = {
     { rel: "contents" },
 
     "./ryder472/aws-llm-security.md",
-
+    
     "./yoshio/01.md",
+
+    "./kushizam/01.md",
 
   // 後書き
     "90-postscript.md",
